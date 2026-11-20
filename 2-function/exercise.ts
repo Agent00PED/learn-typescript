@@ -8,6 +8,7 @@
 export function sayHi(name: string): void {
     // 1. print "Hello, " + name + "!"
     // คำใบ้: void แปลว่า "ไม่คืนค่าอะไรกลับไป" ทำงานแล้วจบ
+    console.log("Hello, " + name + "!");
 }
 
 // ข้อ 6: function declaration ที่คืนค่า
